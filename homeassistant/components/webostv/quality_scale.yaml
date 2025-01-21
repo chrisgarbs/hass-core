@@ -74,7 +74,5 @@ rules:
 
   # Platinum
   async-dependency: done
-  inject-websession:
-    status: todo
-    comment: need to check if it is needed for websockets or migrate to aiohttp
+  inject-websession: done
   strict-typing: done
